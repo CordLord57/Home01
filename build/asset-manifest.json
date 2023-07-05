@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/CordLord57/Home01.git/static/css/main.63bcbe67.css",
+    "main.js": "/CordLord57/Home01.git/static/js/main.69d7b51d.js",
+    "static/media/image2.png": "/CordLord57/Home01.git/static/media/image2.7c7c2bbd5089a1275308.png",
+    "static/media/image3.png": "/CordLord57/Home01.git/static/media/image3.f94dd6e85831ee81f7b2.png",
+    "static/media/image5.png": "/CordLord57/Home01.git/static/media/image5.dc7c33d61e26f899f815.png",
+    "static/media/image4.png": "/CordLord57/Home01.git/static/media/image4.d412c723a108111e0b22.png",
+    "static/media/image6.png": "/CordLord57/Home01.git/static/media/image6.0a1df2c35fb9afce464f.png",
+    "static/media/image1.png": "/CordLord57/Home01.git/static/media/image1.acad10288a090b3b7cc1.png",
+    "index.html": "/CordLord57/Home01.git/index.html",
+    "main.63bcbe67.css.map": "/CordLord57/Home01.git/static/css/main.63bcbe67.css.map",
+    "main.69d7b51d.js.map": "/CordLord57/Home01.git/static/js/main.69d7b51d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63bcbe67.css",
+    "static/js/main.69d7b51d.js"
+  ]
+}
